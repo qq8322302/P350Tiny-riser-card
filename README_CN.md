@@ -35,6 +35,28 @@ https://www.superbuy.com/
 
     1个风扇插座(12V XH2.54)
 
+扩展卡接口资源介绍
+
 ![Alt](img/Snipaste_2025-08-25_21-44-05.jpg)
 
+扩展卡全部配件
+
 ![Alt](img/IMG_20250824_175204.jpg)
+
+## 细节图片
+
+WWAN和WLAN转接卡安装
+![Alt](img/001.jpg)
+
+下层2个硬盘安装。 ** 注意：左侧的是NVME协议PCIE3.0x4, 右侧的是NGFF SATA协议硬盘 **
+![Alt](img/002.jpg)
+
+上层的2个硬盘
+![Alt](img/003.jpg)
+
+安装完毕，整体的效果
+![Alt](img/004.jpg)
+
+侧面观察硬盘，上下层间距7mm
+![Alt](img/005.jpg)
+

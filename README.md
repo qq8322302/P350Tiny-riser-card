@@ -35,6 +35,25 @@ Introduction to Split Card Interface Resources, Supported:
 
     1* FAN slot (12V XH2.54)
 
+Introduction to Expanded Card Interface Resources
 ![Alt](img/Snipaste_2025-08-25_21-44-05.jpg)
 
+All accessories of the expansion card
 ![Alt](img/IMG_20250824_175204.jpg)
+
+## detail picture
+
+Installation of WWAN and WLAN adapter cards
+![Alt](img/001.jpg)
+
+Two hard drives are installed on the lower layer. ** Note: The one on the left is an NVME protocol PCIE3.0x4, and the one on the right is a NGFF SATA protocol hard drive. **
+![Alt](img/002.jpg)
+
+The two hard drives on the upper layer
+![Alt](img/003.jpg)
+
+After installation, the overall effect is...
+![Alt](img/004.jpg)
+
+Observe the hard disk from the side. The distance between the upper and lower layers is 7mm.
+![Alt](img/005.jpg)
